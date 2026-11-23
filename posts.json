@@ -3,6 +3,18 @@
   "robo_ativo": true,
   "posts": [
     {
+      "id": "2026-12-03_case-gymflow",
+      "data_hora": "2026-12-03T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-03_case-gymflow_1.jpg",
+        "midia/2026-12-03_case-gymflow_2.jpg",
+        "midia/2026-12-03_case-gymflow_3.jpg",
+        "midia/2026-12-03_case-gymflow_4.jpg"
+      ],
+      "legenda": "Case Rodtech: GymFlow 🏋️\nUm sistema de gestão para academias e estúdios, com financeiro, cobrança pelo WhatsApp e integração com catracas Control iD.\nTecnologia que a gente desenvolve e usa na prática. Conheça: gymflow.com.br\nQuer um sistema assim para o seu negócio? 📲 (81) 99733-4571\n#CaseRodtech #GymFlow #Academias #ControlID #Sistemas",
+      "status": "pendente"
+    },
+    {
       "id": "2026-12-04_facial-control-id",
       "data_hora": "2026-12-04T13:00:00-03:00",
       "imagens": [
@@ -40,6 +52,20 @@
         "midia/2026-12-09_wifi-lento_6.jpg"
       ],
       "legenda": "Nem sempre o problema é a internet contratada. Veja 4 causas comuns de Wi-Fi lento na empresa 👉\nRedes, cabeamento e Wi-Fi com a Rodtech: (81) 99733-4571\n#Redes #WiFi #TIparaEmpresas #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-10_case-lucra-studio",
+      "data_hora": "2026-12-10T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-10_case-lucra-studio_1.jpg",
+        "midia/2026-12-10_case-lucra-studio_2.jpg",
+        "midia/2026-12-10_case-lucra-studio_3.jpg",
+        "midia/2026-12-10_case-lucra-studio_4.jpg",
+        "midia/2026-12-10_case-lucra-studio_5.jpg",
+        "midia/2026-12-10_case-lucra-studio_6.jpg"
+      ],
+      "legenda": "Case Rodtech: Lucra Studio 💅\nApp de agenda e gestão para estúdios de beleza: agenda online na bio, lembretes no WhatsApp e controle do lucro real.\nConheça: lucrastudio.com.br\nTem uma ideia de app para o seu setor? Fala com a gente: 📲 (81) 99733-4571\n#CaseRodtech #LucraStudio #Beleza #App #Sistemas",
       "status": "pendente"
     },
     {
@@ -83,6 +109,18 @@
       "status": "pendente"
     },
     {
+      "id": "2026-12-17_case-cotacao-frete-erp",
+      "data_hora": "2026-12-17T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-17_case-cotacao-frete-erp_1.jpg",
+        "midia/2026-12-17_case-cotacao-frete-erp_2.jpg",
+        "midia/2026-12-17_case-cotacao-frete-erp_3.jpg",
+        "midia/2026-12-17_case-cotacao-frete-erp_4.jpg"
+      ],
+      "legenda": "Case Rodtech: cotação de frete integrada ao ERP 🚚\nPara uma distribuidora, desenvolvemos um sistema que puxa clientes e produtos do Conta Azul, cota o frete direto na transportadora e trava alterações manuais. E um robô de auditoria encontra cotações que dariam prejuízo.\nSua empresa tem um processo que dá para integrar? 📲 (81) 99733-4571\n#CaseRodtech #Integração #ERP #ContaAzul #Logística",
+      "status": "pendente"
+    },
+    {
       "id": "2026-12-18_catraca-para-quem-serve",
       "data_hora": "2026-12-18T13:00:00-03:00",
       "imagens": [
@@ -112,6 +150,20 @@
         "midia/2026-12-23_boas-festas.jpg"
       ],
       "legenda": "A equipe Rodtech deseja boas festas a clientes e parceiros. Obrigado pela confiança em 2026! 🎄\n#Rodtech #BoasFestas",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-28_case-rma-digital",
+      "data_hora": "2026-12-28T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-28_case-rma-digital_1.jpg",
+        "midia/2026-12-28_case-rma-digital_2.jpg",
+        "midia/2026-12-28_case-rma-digital_3.jpg",
+        "midia/2026-12-28_case-rma-digital_4.jpg",
+        "midia/2026-12-28_case-rma-digital_5.jpg",
+        "midia/2026-12-28_case-rma-digital_6.jpg"
+      ],
+      "legenda": "Case Rodtech: termo de troca (RMA) 100% digital 📱\nPara uma empresa de tecnologia, desenvolvemos um sistema em que o cliente aceita o termo de troca pelo celular, com link no WhatsApp, histórico em tempo real e PDF pronto para imprimir.\nAinda usa papel em algum processo? 📲 (81) 99733-4571\n#CaseRodtech #RMA #Digitalização #Sistemas",
       "status": "pendente"
     },
     {
@@ -147,6 +199,20 @@
         "midia/2027-01-06_facial-digital-cartao_3.jpg"
       ],
       "legenda": "Facial, digital ou cartão? Cada tecnologia de controle de acesso tem seu ponto forte 👉\nSomos especialistas em Control iD e ajudamos a escolher a ideal para o seu espaço.\n📲 (81) 99733-4571\n#ControlID #ControleDeAcesso #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-07_como-desenvolvemos",
+      "data_hora": "2027-01-07T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-07_como-desenvolvemos_1.jpg",
+        "midia/2027-01-07_como-desenvolvemos_2.jpg",
+        "midia/2027-01-07_como-desenvolvemos_3.jpg",
+        "midia/2027-01-07_como-desenvolvemos_4.jpg",
+        "midia/2027-01-07_como-desenvolvemos_5.jpg",
+        "midia/2027-01-07_como-desenvolvemos_6.jpg"
+      ],
+      "legenda": "Do problema ao sistema funcionando: é assim que a Rodtech desenvolve soluções sob medida ⚙️\nVeja as etapas 👉\n📲 (81) 99733-4571\n#Desenvolvimento #Sistemas #SobMedida #Recife",
       "status": "pendente"
     },
     {
@@ -188,6 +254,17 @@
       "status": "pendente"
     },
     {
+      "id": "2027-01-14_gymflow-catraca",
+      "data_hora": "2027-01-14T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-14_gymflow-catraca_1.jpg",
+        "midia/2027-01-14_gymflow-catraca_2.jpg",
+        "midia/2027-01-14_gymflow-catraca_3.jpg"
+      ],
+      "legenda": "Academia com catraca Control iD? Com o GymFlow, a catraca conversa com o financeiro: aluno em dia entra, inadimplente não passa 🔐\nSistema desenvolvido pela Rodtech: gymflow.com.br\n📲 (81) 99733-4571\n#CaseRodtech #GymFlow #ControlID #Academias",
+      "status": "pendente"
+    },
+    {
       "id": "2027-01-15_automacao",
       "data_hora": "2027-01-15T13:00:00-03:00",
       "imagens": [
@@ -221,6 +298,19 @@
         "midia/2027-01-20_relatorios-acesso_3.jpg"
       ],
       "legenda": "Quem entrou, por onde e a que horas: com controle de acesso, essa resposta está a um clique 📊\nEspecialistas em Control iD: catracas, faciais e software.\n📲 (81) 99733-4571\n#ControlID #ControleDeAcesso #Segurança",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-21_lucra-radar-retorno",
+      "data_hora": "2027-01-21T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-21_lucra-radar-retorno_1.jpg",
+        "midia/2027-01-21_lucra-radar-retorno_2.jpg",
+        "midia/2027-01-21_lucra-radar-retorno_3.jpg",
+        "midia/2027-01-21_lucra-radar-retorno_4.jpg",
+        "midia/2027-01-21_lucra-radar-retorno_5.jpg"
+      ],
+      "legenda": "Cliente que some nem sempre foi embora: às vezes só esqueceu de voltar. O radar de retorno do Lucra Studio mostra quem chamar 💬\nApp desenvolvido pela Rodtech: lucrastudio.com.br\n📲 (81) 99733-4571\n#CaseRodtech #LucraStudio #Beleza #Fidelização",
       "status": "pendente"
     },
     {
@@ -258,6 +348,17 @@
         "midia/2027-01-27_upgrade-ou-novo_3.jpg"
       ],
       "legenda": "Computador lento nem sempre precisa ser trocado. Às vezes um upgrade resolve 💡\n📲 (81) 99733-4571\n#Upgrade #SSD #Manutenção #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-28_case-central-suporte",
+      "data_hora": "2027-01-28T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-28_case-central-suporte_1.jpg",
+        "midia/2027-01-28_case-central-suporte_2.jpg",
+        "midia/2027-01-28_case-central-suporte_3.jpg"
+      ],
+      "legenda": "Case Rodtech: central de suporte técnico 🛠️\nPara uma equipe de suporte, desenvolvemos um painel com atendimento pelo WhatsApp oficial, fila inteligente, checklists, base de conhecimento e IA para analisar chamados.\nSua equipe precisa se organizar melhor? 📲 (81) 99733-4571\n#CaseRodtech #SuporteTécnico #WhatsApp #Sistemas",
       "status": "pendente"
     },
     {
