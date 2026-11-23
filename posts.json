@@ -56,6 +56,20 @@
       "status": "pendente"
     },
     {
+      "id": "2026-12-14_golpes-por-email",
+      "data_hora": "2026-12-14T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-14_golpes-por-email_1.jpg",
+        "midia/2026-12-14_golpes-por-email_2.jpg",
+        "midia/2026-12-14_golpes-por-email_3.jpg",
+        "midia/2026-12-14_golpes-por-email_4.jpg",
+        "midia/2026-12-14_golpes-por-email_5.jpg",
+        "midia/2026-12-14_golpes-por-email_6.jpg"
+      ],
+      "legenda": "Um clique errado num e-mail falso pode parar a empresa inteira. Veja os 4 sinais de golpe mais comuns 👉\nSalve este post e compartilhe com a equipe.\n📲 (81) 99733-4571\n#SegurançaDaInformação #Phishing #TIparaEmpresas #Recife",
+      "status": "pendente"
+    },
+    {
       "id": "2026-12-16_checklist-recesso",
       "data_hora": "2026-12-16T13:00:00-03:00",
       "imagens": [
@@ -98,6 +112,166 @@
         "midia/2026-12-23_boas-festas.jpg"
       ],
       "legenda": "A equipe Rodtech deseja boas festas a clientes e parceiros. Obrigado pela confiança em 2026! 🎄\n#Rodtech #BoasFestas",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-31_feliz-2027",
+      "data_hora": "2026-12-31T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-31_feliz-2027.jpg"
+      ],
+      "legenda": "Que 2027 venha com muitos projetos, parcerias e tecnologia funcionando a seu favor. Feliz Ano Novo! 🎆\nEquipe Rodtech\n#Rodtech #FelizAnoNovo #2027",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-04_checklist-ti-2027",
+      "data_hora": "2027-01-04T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-04_checklist-ti-2027_1.jpg",
+        "midia/2027-01-04_checklist-ti-2027_2.jpg",
+        "midia/2027-01-04_checklist-ti-2027_3.jpg",
+        "midia/2027-01-04_checklist-ti-2027_4.jpg",
+        "midia/2027-01-04_checklist-ti-2027_5.jpg",
+        "midia/2027-01-04_checklist-ti-2027_6.jpg",
+        "midia/2027-01-04_checklist-ti-2027_7.jpg"
+      ],
+      "legenda": "Ano novo, TI em dia. Faça esse checklist para começar 2027 sem surpresas ✅\nQuer ajuda para colocar tudo em ordem? Fala com a gente.\n📲 (81) 99733-4571\n#TIparaEmpresas #Planejamento2027 #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-06_facial-digital-cartao",
+      "data_hora": "2027-01-06T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-06_facial-digital-cartao_1.jpg",
+        "midia/2027-01-06_facial-digital-cartao_2.jpg",
+        "midia/2027-01-06_facial-digital-cartao_3.jpg"
+      ],
+      "legenda": "Facial, digital ou cartão? Cada tecnologia de controle de acesso tem seu ponto forte 👉\nSomos especialistas em Control iD e ajudamos a escolher a ideal para o seu espaço.\n📲 (81) 99733-4571\n#ControlID #ControleDeAcesso #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-08_senhas-fortes",
+      "data_hora": "2027-01-08T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-08_senhas-fortes_1.jpg",
+        "midia/2027-01-08_senhas-fortes_2.jpg",
+        "midia/2027-01-08_senhas-fortes_3.jpg",
+        "midia/2027-01-08_senhas-fortes_4.jpg",
+        "midia/2027-01-08_senhas-fortes_5.jpg",
+        "midia/2027-01-08_senhas-fortes_6.jpg"
+      ],
+      "legenda": "Senha fraca é convite para invasão. Veja como criar senhas fortes sem precisar decorar tudo 🔐\n📲 (81) 99733-4571\n#Senhas #SegurançaDaInformação #TIparaEmpresas",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-11_ti-terceirizada",
+      "data_hora": "2027-01-11T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-11_ti-terceirizada_1.jpg",
+        "midia/2027-01-11_ti-terceirizada_2.jpg",
+        "midia/2027-01-11_ti-terceirizada_3.jpg"
+      ],
+      "legenda": "Ter alguém de TI cuidando da empresa não precisa pesar na folha. Veja por que muitas empresas terceirizam 👉\n📲 (81) 99733-4571\n#TITerceirizada #SuporteDeTI #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-13_nobreak",
+      "data_hora": "2027-01-13T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-13_nobreak_1.jpg",
+        "midia/2027-01-13_nobreak_2.jpg",
+        "midia/2027-01-13_nobreak_3.jpg",
+        "midia/2027-01-13_nobreak_4.jpg",
+        "midia/2027-01-13_nobreak_5.jpg"
+      ],
+      "legenda": "Queda de energia não avisa. Um nobreak protege equipamentos e evita perder trabalho 🔌\n📲 (81) 99733-4571\n#Nobreak #Infraestrutura #TIparaEmpresas",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-15_automacao",
+      "data_hora": "2027-01-15T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-15_automacao_1.jpg",
+        "midia/2027-01-15_automacao_2.jpg",
+        "midia/2027-01-15_automacao_3.jpg"
+      ],
+      "legenda": "Tarefa repetida todo dia? Dá para automatizar. Veja exemplos que economizam horas 👉\n📲 (81) 99733-4571\n#Automação #Sistemas #Produtividade #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-18_ransomware",
+      "data_hora": "2027-01-18T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-18_ransomware_1.jpg",
+        "midia/2027-01-18_ransomware_2.jpg",
+        "midia/2027-01-18_ransomware_3.jpg",
+        "midia/2027-01-18_ransomware_4.jpg",
+        "midia/2027-01-18_ransomware_5.jpg",
+        "midia/2027-01-18_ransomware_6.jpg"
+      ],
+      "legenda": "Ransomware sequestra os arquivos da empresa e pede resgate. Veja como se proteger 🛡️\n📲 (81) 99733-4571\n#Ransomware #SegurançaDaInformação #Backup",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-20_relatorios-acesso",
+      "data_hora": "2027-01-20T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-20_relatorios-acesso_1.jpg",
+        "midia/2027-01-20_relatorios-acesso_2.jpg",
+        "midia/2027-01-20_relatorios-acesso_3.jpg"
+      ],
+      "legenda": "Quem entrou, por onde e a que horas: com controle de acesso, essa resposta está a um clique 📊\nEspecialistas em Control iD: catracas, faciais e software.\n📲 (81) 99733-4571\n#ControlID #ControleDeAcesso #Segurança",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-22_wifi-visitantes",
+      "data_hora": "2027-01-22T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-22_wifi-visitantes_1.jpg",
+        "midia/2027-01-22_wifi-visitantes_2.jpg",
+        "midia/2027-01-22_wifi-visitantes_3.jpg",
+        "midia/2027-01-22_wifi-visitantes_4.jpg",
+        "midia/2027-01-22_wifi-visitantes_5.jpg"
+      ],
+      "legenda": "Wi-Fi de visitante na mesma rede dos computadores da empresa é risco. Separe as redes 📶\n📲 (81) 99733-4571\n#WiFi #Redes #SegurançaDaInformação",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-25_suporte-remoto",
+      "data_hora": "2027-01-25T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-25_suporte-remoto_1.jpg",
+        "midia/2027-01-25_suporte-remoto_2.jpg",
+        "midia/2027-01-25_suporte-remoto_3.jpg",
+        "midia/2027-01-25_suporte-remoto_4.jpg",
+        "midia/2027-01-25_suporte-remoto_5.jpg"
+      ],
+      "legenda": "Muita coisa se resolve sem visita: suporte remoto é rápido e seguro. Veja como funciona 👉\n📲 (81) 99733-4571\n#SuporteRemoto #SuporteDeTI #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-27_upgrade-ou-novo",
+      "data_hora": "2027-01-27T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-27_upgrade-ou-novo_1.jpg",
+        "midia/2027-01-27_upgrade-ou-novo_2.jpg",
+        "midia/2027-01-27_upgrade-ou-novo_3.jpg"
+      ],
+      "legenda": "Computador lento nem sempre precisa ser trocado. Às vezes um upgrade resolve 💡\n📲 (81) 99733-4571\n#Upgrade #SSD #Manutenção #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-01-29_site-para-empresa",
+      "data_hora": "2027-01-29T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-01-29_site-para-empresa_1.jpg",
+        "midia/2027-01-29_site-para-empresa_2.jpg",
+        "midia/2027-01-29_site-para-empresa_3.jpg",
+        "midia/2027-01-29_site-para-empresa_4.jpg",
+        "midia/2027-01-29_site-para-empresa_5.jpg",
+        "midia/2027-01-29_site-para-empresa_6.jpg"
+      ],
+      "legenda": "Seu cliente procura no Google antes de ligar. Sua empresa aparece? 🌐\nCriamos sites e landing pages para empresas.\n📲 (81) 99733-4571\n#Sites #PresençaDigital #Recife",
       "status": "pendente"
     }
   ]
