@@ -1,6 +1,6 @@
 {
   "_como_usar": "Cada post: data_hora (horário de Brasília), imagens na ordem (pasta midia/), legenda e status. Para agendar um novo post, suba as imagens JPEG em midia/ e adicione um item com status 'pendente'. Para tentar de novo um post com 'erro', volte o status para 'pendente'.",
-  "robo_ativo": false,
+  "robo_ativo": true,
   "posts": [
     {
       "id": "2026-12-04_facial-control-id",
