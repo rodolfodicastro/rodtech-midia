@@ -96,6 +96,20 @@
       "status": "pendente"
     },
     {
+      "id": "2026-12-15_tendencia-reforma-tributaria",
+      "data_hora": "2026-12-15T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-15_tendencia-reforma-tributaria_1.jpg",
+        "midia/2026-12-15_tendencia-reforma-tributaria_2.jpg",
+        "midia/2026-12-15_tendencia-reforma-tributaria_3.jpg",
+        "midia/2026-12-15_tendencia-reforma-tributaria_4.jpg",
+        "midia/2026-12-15_tendencia-reforma-tributaria_5.jpg",
+        "midia/2026-12-15_tendencia-reforma-tributaria_6.jpg"
+      ],
+      "legenda": "2027 começa com a Reforma Tributária valendo na prática 🧾\nA CBS entra em vigor em 1º de janeiro e a nota fiscal passa a exigir novos campos de IBS e CBS. Quem tem cadastro desatualizado ou sistema sem integração corre risco de nota rejeitada.\nA regra tributária é com o seu contador. Deixar o sistema, os cadastros e as integrações prontos é com a gente.\n📲 (81) 99733-4571\n#ReformaTributaria #CBS #IBS #NotaFiscal #ERP #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
       "id": "2026-12-16_checklist-recesso",
       "data_hora": "2026-12-16T13:00:00-03:00",
       "imagens": [
@@ -373,6 +387,92 @@
         "midia/2027-01-29_site-para-empresa_6.jpg"
       ],
       "legenda": "Seu cliente procura no Google antes de ligar. Sua empresa aparece? 🌐\nCriamos sites e landing pages para empresas.\n📲 (81) 99733-4571\n#Sites #PresençaDigital #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-02-02_tendencia-agentes-ia",
+      "data_hora": "2027-02-02T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-02-02_tendencia-agentes-ia_1.jpg",
+        "midia/2027-02-02_tendencia-agentes-ia_2.jpg",
+        "midia/2027-02-02_tendencia-agentes-ia_3.jpg",
+        "midia/2027-02-02_tendencia-agentes-ia_4.jpg"
+      ],
+      "legenda": "A próxima fase da IA nas empresas: ela não só responde, ela executa 🤖\nAgentes de IA aparecem no topo das tendências de tecnologia para 2027, segundo o Gartner. Na prática: consultar o sistema, preencher dados, responder clientes e avisar quando algo foge do normal.\nQuer saber onde a IA faz sentido no seu negócio? Fazemos esse diagnóstico.\n📲 (81) 99733-4571\n#InteligenciaArtificial #AgentesDeIA #Automacao #Tendencias2027 #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-02-16_tendencia-ia-dados",
+      "data_hora": "2027-02-16T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-02-16_tendencia-ia-dados_1.jpg",
+        "midia/2027-02-16_tendencia-ia-dados_2.jpg",
+        "midia/2027-02-16_tendencia-ia-dados_3.jpg",
+        "midia/2027-02-16_tendencia-ia-dados_4.jpg",
+        "midia/2027-02-16_tendencia-ia-dados_5.jpg"
+      ],
+      "legenda": "Mais de 40% dos projetos de agentes de IA devem ser cancelados até o fim de 2027, segundo previsão do Gartner 📉\nO motivo quase nunca é a IA. É colocar inteligência em cima de processos confusos e dados bagunçados.\nAntes de investir em IA, organize a base. É por aí que a gente começa.\n📲 (81) 99733-4571\n#InteligenciaArtificial #Dados #Gestao #Tendencias2027 #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-02-23_tendencia-deepfake",
+      "data_hora": "2027-02-23T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-02-23_tendencia-deepfake_1.jpg",
+        "midia/2027-02-23_tendencia-deepfake_2.jpg",
+        "midia/2027-02-23_tendencia-deepfake_3.jpg",
+        "midia/2027-02-23_tendencia-deepfake_4.jpg",
+        "midia/2027-02-23_tendencia-deepfake_5.jpg"
+      ],
+      "legenda": "Voz clonada e vídeo falso já são usados em golpes contra empresas 🎭\nOs casos de deepfake e identidade falsa cresceram 126% no Brasil em 2025, segundo relatório do setor. O golpe clássico: alguém com a voz do chefe pedindo um Pix urgente.\nReconhecer a voz não é mais prova. Combine regras de confirmação com a sua equipe.\n📲 (81) 99733-4571\n#Seguranca #Deepfake #Golpes #CiberSeguranca #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-03-02_tendencia-passkeys",
+      "data_hora": "2027-03-02T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-03-02_tendencia-passkeys_1.jpg",
+        "midia/2027-03-02_tendencia-passkeys_2.jpg",
+        "midia/2027-03-02_tendencia-passkeys_3.jpg",
+        "midia/2027-03-02_tendencia-passkeys_4.jpg"
+      ],
+      "legenda": "O fim das senhas já começou 🔑\nAs passkeys (chaves de acesso) substituem a senha pela biometria ou pelo PIN do aparelho. A FIDO Alliance estima mais de 5 bilhões delas em uso no mundo. Google, Apple e Microsoft já suportam.\nMenos senha anotada em papel, menos risco de phishing. Ajudamos sua empresa a fazer essa transição.\n📲 (81) 99733-4571\n#Passkeys #Seguranca #SemSenha #Tendencias #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-03-09_tendencia-integracao",
+      "data_hora": "2027-03-09T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-03-09_tendencia-integracao_1.jpg",
+        "midia/2027-03-09_tendencia-integracao_2.jpg",
+        "midia/2027-03-09_tendencia-integracao_3.jpg",
+        "midia/2027-03-09_tendencia-integracao_4.jpg"
+      ],
+      "legenda": "Digitar a mesma informação em três sistemas diferentes está com os dias contados ⚙️\nA tendência é a tecnologia sem atrito: ERP, WhatsApp, loja virtual, catraca e financeiro conversando sozinhos.\nÉ isso que a gente desenvolve: integrações sob medida entre os sistemas que você já usa.\n📲 (81) 99733-4571\n#Integracao #Automacao #ERP #Sistemas #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-03-16_tendencia-acesso-facial",
+      "data_hora": "2027-03-16T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-03-16_tendencia-acesso-facial_1.jpg",
+        "midia/2027-03-16_tendencia-acesso-facial_2.jpg",
+        "midia/2027-03-16_tendencia-acesso-facial_3.jpg"
+      ],
+      "legenda": "Cartão perdido, crachá emprestado, chave copiada... o controle de acesso está mudando 🙂\nA biometria facial vem substituindo cartões e chaves em empresas, condomínios e academias: entrada mais rápida, registro de cada acesso e liberação pelo painel.\nSomos especialistas em controle de acesso Control iD: projeto, instalação e integração com o seu sistema.\n📲 (81) 99733-4571\n#ControleDeAcesso #ControlID #Biometria #Facial #TendenciasRodtech",
+      "status": "pendente"
+    },
+    {
+      "id": "2027-03-23_tendencia-plano-ti",
+      "data_hora": "2027-03-23T13:00:00-03:00",
+      "imagens": [
+        "midia/2027-03-23_tendencia-plano-ti_1.jpg",
+        "midia/2027-03-23_tendencia-plano-ti_2.jpg",
+        "midia/2027-03-23_tendencia-plano-ti_3.jpg",
+        "midia/2027-03-23_tendencia-plano-ti_4.jpg",
+        "midia/2027-03-23_tendencia-plano-ti_5.jpg"
+      ],
+      "legenda": "Tecnologia muda rápido. Sua empresa tem um plano para os próximos anos? 🧭\nIA, novas regras fiscais, golpes mais sofisticados, fim das senhas. Quem se antecipa gasta menos e sofre menos.\nFazemos um diagnóstico de TI do seu negócio e entregamos um plano prático, por prioridade e por orçamento.\nAgende uma conversa: 📲 (81) 99733-4571\n#ConsultoriaDeTI #Planejamento #Tecnologia #Recife #TendenciasRodtech",
       "status": "pendente"
     }
   ]
