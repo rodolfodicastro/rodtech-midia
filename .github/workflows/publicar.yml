@@ -1,0 +1,44 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    # A cada 30 minutos (horário UTC). O robô só publica o que já passou da hora marcada.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+    inputs:
+      modo_teste:
+        description: "Modo teste (confere token e imagens sem publicar)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rodar o robô
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MODO_TESTE: ${{ github.event_name == 'workflow_dispatch' && inputs.modo_teste && '1' || '0' }}
+        run: python3 robo/publicar.py
+
+      - name: Salvar status no posts.json
+        if: always()
+        run: |
+          if ! git diff --quiet posts.json; then
+            git config user.name "Robo Rodtech"
+            git config user.email "rodtechinformatica@gmail.com"
+            git add posts.json
+            git commit -m "Atualiza status dos posts [skip ci]"
+            git push
+          fi

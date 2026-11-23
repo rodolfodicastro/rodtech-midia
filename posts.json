@@ -1,0 +1,104 @@
+{
+  "_como_usar": "Cada post: data_hora (horário de Brasília), imagens na ordem (pasta midia/), legenda e status. Para agendar um novo post, suba as imagens JPEG em midia/ e adicione um item com status 'pendente'. Para tentar de novo um post com 'erro', volte o status para 'pendente'.",
+  "robo_ativo": false,
+  "posts": [
+    {
+      "id": "2026-12-04_facial-control-id",
+      "data_hora": "2026-12-04T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-04_facial-control-id_1.jpg",
+        "midia/2026-12-04_facial-control-id_2.jpg",
+        "midia/2026-12-04_facial-control-id_3.jpg",
+        "midia/2026-12-04_facial-control-id_4.jpg",
+        "midia/2026-12-04_facial-control-id_5.jpg",
+        "midia/2026-12-04_facial-control-id_6.jpg"
+      ],
+      "legenda": "Controle de acesso sem cartão perdido nem senha compartilhada 🔐\nVeja como funciona o reconhecimento facial, do cadastro ao relatório 👉\nSomos especialistas em controle de acesso Control iD: catracas, faciais e software.\n📲 (81) 99733-4571\n#ControlID #ControleDeAcesso #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-07_contrato-ou-avulso",
+      "data_hora": "2026-12-07T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-07_contrato-ou-avulso_1.jpg",
+        "midia/2026-12-07_contrato-ou-avulso_2.jpg",
+        "midia/2026-12-07_contrato-ou-avulso_3.jpg",
+        "midia/2026-12-07_contrato-ou-avulso_4.jpg"
+      ],
+      "legenda": "Chamado avulso ou contrato mensal? Depende do tamanho da sua operação. Arrasta pro lado que a gente explica 👉\nNa dúvida, chama que a gente monta a melhor opção: (81) 99733-4571\n#SuporteDeTI #TIparaEmpresas",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-09_wifi-lento",
+      "data_hora": "2026-12-09T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-09_wifi-lento_1.jpg",
+        "midia/2026-12-09_wifi-lento_2.jpg",
+        "midia/2026-12-09_wifi-lento_3.jpg",
+        "midia/2026-12-09_wifi-lento_4.jpg",
+        "midia/2026-12-09_wifi-lento_5.jpg",
+        "midia/2026-12-09_wifi-lento_6.jpg"
+      ],
+      "legenda": "Nem sempre o problema é a internet contratada. Veja 4 causas comuns de Wi-Fi lento na empresa 👉\nRedes, cabeamento e Wi-Fi com a Rodtech: (81) 99733-4571\n#Redes #WiFi #TIparaEmpresas #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-11_sistema-sob-medida",
+      "data_hora": "2026-12-11T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-11_sistema-sob-medida_1.jpg",
+        "midia/2026-12-11_sistema-sob-medida_2.jpg",
+        "midia/2026-12-11_sistema-sob-medida_3.jpg",
+        "midia/2026-12-11_sistema-sob-medida_4.jpg",
+        "midia/2026-12-11_sistema-sob-medida_5.jpg"
+      ],
+      "legenda": "Planilha pra tudo, informação digitada duas vezes, processo que para quando alguém falta? Talvez esteja na hora de um sistema sob medida ⚙️\nConta pra gente o seu desafio: (81) 99733-4571\n#Desenvolvimento #Sistemas #Recife",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-16_checklist-recesso",
+      "data_hora": "2026-12-16T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-16_checklist-recesso_1.jpg",
+        "midia/2026-12-16_checklist-recesso_2.jpg",
+        "midia/2026-12-16_checklist-recesso_3.jpg",
+        "midia/2026-12-16_checklist-recesso_4.jpg",
+        "midia/2026-12-16_checklist-recesso_5.jpg"
+      ],
+      "legenda": "Antes do recesso, faça esse checklist e volte em janeiro sem surpresa ✅\nQuer que a gente faça por você? (81) 99733-4571\n#Backup #SegurançaDaInformação #TIparaEmpresas",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-18_catraca-para-quem-serve",
+      "data_hora": "2026-12-18T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-18_catraca-para-quem-serve_1.jpg",
+        "midia/2026-12-18_catraca-para-quem-serve_2.jpg",
+        "midia/2026-12-18_catraca-para-quem-serve_3.jpg",
+        "midia/2026-12-18_catraca-para-quem-serve_4.jpg",
+        "midia/2026-12-18_catraca-para-quem-serve_5.jpg",
+        "midia/2026-12-18_catraca-para-quem-serve_6.jpg"
+      ],
+      "legenda": "Catraca não é só para portaria grande. Veja onde o controle de acesso Control iD faz diferença 👉\nInstalação, configuração e suporte com a Rodtech: (81) 99733-4571\n#ControlID #Catraca #ControleDeAcesso",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-21_atendimento-fim-de-ano",
+      "data_hora": "2026-12-21T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-21_atendimento-fim-de-ano.jpg"
+      ],
+      "legenda": "Recesso de fim de ano 📅\nNão teremos atendimento nos dias 23, 24 e 25 de dezembro e 30 e 31 de dezembro e 1º de janeiro. Nos outros dias, atendimento normal.\n📲 (81) 99733-4571",
+      "status": "pendente"
+    },
+    {
+      "id": "2026-12-23_boas-festas",
+      "data_hora": "2026-12-23T13:00:00-03:00",
+      "imagens": [
+        "midia/2026-12-23_boas-festas.jpg"
+      ],
+      "legenda": "A equipe Rodtech deseja boas festas a clientes e parceiros. Obrigado pela confiança em 2026! 🎄\n#Rodtech #BoasFestas",
+      "status": "pendente"
+    }
+  ]
+}
