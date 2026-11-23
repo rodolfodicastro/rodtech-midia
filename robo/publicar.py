@@ -7,7 +7,7 @@ chegou e marca cada um como publicado. Sem dependências externas.
 Variáveis de ambiente:
   IG_USER_ID        id da conta do Instagram Business (ex.: 17841456073441533)
   IG_ACCESS_TOKEN   token de acesso (Secret do GitHub; nunca no código)
-  GRAPH_API_VERSION versão da Graph API (padrão v22.0)
+  GRAPH_API_VERSION versão da Graph API (padrão v25.0)
   MODO_TESTE        "1" valida token e imagens sem publicar nada
   IMAGENS_BASE_URL  URL base das imagens (padrão: raw do próprio repositório)
   POSTS_JSON        caminho do posts.json (padrão: posts.json na raiz)
@@ -24,7 +24,7 @@ from datetime import datetime, timedelta, timezone
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 POSTS_JSON = os.environ.get("POSTS_JSON", os.path.join(RAIZ, "posts.json"))
 GRAPH = os.environ.get("GRAPH_BASE", "https://graph.facebook.com")
-VERSAO = os.environ.get("GRAPH_API_VERSION", "v22.0")
+VERSAO = os.environ.get("GRAPH_API_VERSION", "v25.0")
 TOKEN = os.environ.get("IG_ACCESS_TOKEN", "").strip()
 IG_USER = os.environ.get("IG_USER_ID", "").strip()
 MODO_TESTE = os.environ.get("MODO_TESTE", "0") == "1"
